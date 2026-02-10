@@ -29,5 +29,6 @@ console.log(gameName.split('score'))
 const url =  "https://google.com"
 console.log(url)
 console.log(url.replace('https://','http://'))//http://google.com)
-console.log(gameName.trim()
-)
+console.log(gameName.trim())
+console.log(gameName.includes('scsore'))
+
