@@ -7,3 +7,5 @@ Next, I learned how to declare variables and understood why variables are import
 In addition, I practised data type operations, including: Addition, Subtraction, Multiplication, Division, Modulus (remainder) and Power (exponentiation)
 
 By the end of Day 1, I gained a clear understanding of how variables and data types work and how to perform basic arithmetic operations using them. This day helped build a strong foundation for learning more advanced programming concepts in the future.
+
+On Day 2 of learning JavaScript, I focused on understanding comparison operators, strings, and data types. I learned how different comparison operators work, including the difference between loose and strict comparison, and why strict comparison is preferred to avoid type coercion issues. I explored strings, their creation, and common string methods used to manipulate text. I also summarized JavaScript data types by distinguishing between primitive and non-primitive types, understanding how primitives are stored by value while non-primitives are stored by reference. Overall, this day helped me build a strong foundation in how JavaScript handles data and comparisons.
