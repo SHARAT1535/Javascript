@@ -1,5 +1,9 @@
-num=[1,2,3,4,5,6,7,8,9]
-// console.log("nums",num);
-// let doublesd = num.map((n) => n*2)// multiplies each element by 2
-// console.log(doublesd);
-
+console.log(person.firstname)
+// console.log(person.lastname)
+// console.log(person.age)
+// console.log(person.isemployed)
+// // different way of accessing object
+// console.log(person["firstname"])
+// console.log(person["lastname"])
+// console.log(person["age"])
+// console.log(person["isemployed"])

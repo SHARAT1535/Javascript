@@ -1,8 +1,8 @@
 let mydate = new Date();
- console.log(mydate);
- console.log(mydate.getDate());
- console.log(mydate.toLocaleString());
-console.log(mydate.toDateString());
+ //console.log(mydate);
+//  console.log(mydate.getDate());
+//  console.log(mydate.toLocaleString());
+//     console.log(mydate.toDateString());
  console.log(typeof mydate);
 
 let mycreateddate = new Date(2023, 0, 23);

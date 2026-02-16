@@ -12,7 +12,7 @@ const myarr = [1,2,3,4,5]
 // console.log(myarr);
 // myarr.shift();
 
-//slice amd spice
+//slice amd spice   
 // console.log(myarr);
 console.log(" original normla",myarr);
 const myn1 = myarr.slice(1,3);
