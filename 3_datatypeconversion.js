@@ -11,7 +11,7 @@ console.log(typeof scoreinstring)
 // isnopos=Boolean(n)
 // console.log(isnopos)
 
-// let nq=51;
+// let nq=51;sss
 // isnopos2=Boolean(nq)
 // console.log(isnopos2)
 

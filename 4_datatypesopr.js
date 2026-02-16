@@ -25,12 +25,12 @@ console.log(negval)//prints negative value
  console.log("1"+2+2) 
  console.log(1+2+"2")
 
- //prefix operator 
+ //prefix operator --aaa
  num1=0;
  ++num1//increment before 
  console.log(num1)
 
- //postfix operator 
+ //postfix operator aaa++
  num4=1;
  num4++ //increment after 
  console.log(num4)
